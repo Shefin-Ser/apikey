@@ -41,8 +41,8 @@ loghandler = {
         status: false,
         creator: `${creator}`,
         code: 406,
-        message: 'masukan parameter apikey',
-        getApikey: 'Apikey??? Contact Me On WhatsApp'
+        message: 'Powered by @shefinkl14',
+        getApikey: 'Invalid API key. Contact shefin for API Key!'
     },
     notkey: {
         status: false,
@@ -114,7 +114,7 @@ loghandler = {
         status: false,
         creator: `${creator}`,
         code: 406,
-        message: 'Apikey??? Contact Me On WhatsApp'
+        message: 'Invalid API key. Contact shefin for API Key!'
     },
     invalidlink: {
         status: false,
